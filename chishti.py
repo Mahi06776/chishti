@@ -24,7 +24,7 @@ def calculate_angle(a, b, c):
 # Start Camera
 cap = cv2.VideoCapture(0)
 
-status = "UNKNOWN"
+status = "UNhamnwN"
 
 while cap.isOpened():
     ret, frame = cap.read()
